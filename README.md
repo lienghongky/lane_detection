@@ -11,8 +11,8 @@ The algorithm can broken down into the following steps:
 ### 1 .Library Required:
 
 ```bash
-pip install scikit-image 
-pip install numpy 
+pip install scikit-image
+pip install numpy
 pip install matplotlib
 ```
 
@@ -25,14 +25,14 @@ pip install matplotlib
 imagepath = 'road.jpg'
 ```
 
-2.2 Run the ***main.py*** with command:
+2.2 Run the **_main.py_** with command:
 
 ```bash
-# To start 
+# To start
 python3 main.py
 ```
 
-2.3 It will take a while 
+2.3 It will take a while
 
 ```python
 1/5.Lane Detection Loading Image...
@@ -44,4 +44,26 @@ python3 main.py
 ```
 
 2.4 Result:
-![Image Description](Figure_1.png)
+
+<table>
+    <tr>
+        <th>Input</th>
+        <th>Result</th>
+    </tr>
+    <tr>
+        <td>
+            <img src="road.jpg"/>
+        </td>
+        <td>
+            <img src="Figure_1.png"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="test.png"/>
+        </td>
+        <td>
+            <img src="Figure_2.png"/>
+        </td>
+    </tr>
+</table>
