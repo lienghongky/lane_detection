@@ -7,6 +7,7 @@ The algorithm can broken down into the following steps:
 1. Detect edges using the Canny edge detector.
 2. Extract the edges in the region of interest(ROI)
 3. Run Hough transform to detect lanes.
+>Some of the source code is courtesy of Professor Donsuk Lee from Stanford University.
 
 ### 1 .Library Required:
 
