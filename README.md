@@ -52,18 +52,18 @@ python3 main.py
     </tr>
     <tr>
         <td>
-            <img src="road.jpg"/>
+            <img src="assets/road.jpg"/>
         </td>
         <td>
-            <img src="Figure_1.png"/>
+            <img src="assets/Figure_1.png"/>
         </td>
     </tr>
     <tr>
         <td>
-            <img src="test.png"/>
+            <img src="assets/test.png"/>
         </td>
         <td>
-            <img src="Figure_2.png"/>
+            <img src="assets/Figure_2.png"/>
         </td>
     </tr>
 </table>

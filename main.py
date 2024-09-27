@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Change the image path to test on a different image
-imagepath = 'test.png'
+imagepath = 'assets/test.png'
 # imagepath = 'road.jpg'
 
 
